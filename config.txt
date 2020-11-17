@@ -1,0 +1,1 @@
+{"numOfDayswihtoutFine":10,"finePerDay":2.8,"username":"admin","password":"admin"}
